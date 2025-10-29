@@ -1,3 +1,4 @@
-# Hnin Ei Hlaing
-> Payap University, Department of Information Technology/>
+# _Hnin Ei Hlaing_
+> Payap University, Department of Information Technology
+> 
 > 
