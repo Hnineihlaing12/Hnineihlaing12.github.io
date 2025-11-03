@@ -29,5 +29,5 @@ Graduated from High School<br/>
 # Volunteer work
 >Participated in volunteering work for training on demonstrating basic computer skills for the students in monastic education in Bago Region, Myanmar (April 2021 – June 2022)
 
-#Contact Info:
+# Contact Info:
 >[Gmail] hnineiheh117@gmail.com
