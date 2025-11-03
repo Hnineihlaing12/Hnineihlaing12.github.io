@@ -1,4 +1,4 @@
-<img src="Picture1.png" alt="Hnin Ei Hlaing" align="right" width="30%">
+<img src="Picture1.png" alt="Hnin Ei Hlaing" align="right" width="10%">
 
 # _Hnin Ei Hlaing_<br/>
 >_Undergraduated Student_<br/>
