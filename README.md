@@ -26,7 +26,7 @@ Graduated from High School<br/>
 # Interests
 >I am passionate about Data Analytics and enjoy exploring insights from data to solve real-world problems.
 
-# Volunteer work:
+# Volunteer work
 >Participated in volunteering work for training on demonstrating basic computer skills for the students in monastic education in Bago Region, Myanmar (April 2021 – June 2022)
 
 #Contact Info:
