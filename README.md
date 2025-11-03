@@ -1,4 +1,4 @@
-<img src="Picture1.png" alt="My Photo" width="20%" >
+<img src="Picture1.png" alt="My Photo" width="20%" align="middle" >
 # _Hnin Ei Hlaing_<br/>
 >_Undergraduated Student_<br/>
 >_Payap University, Department of Information Technology_<br/>
