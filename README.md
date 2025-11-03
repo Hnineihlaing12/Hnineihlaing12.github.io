@@ -1,5 +1,5 @@
 <img src="Picture1.png" alt="Hnin Ei Hlaing" align="right" width="20%">
-<table>
+<table border=0>
   <tr>
     <td>
       <h1>Hnin Ei Hlaing</h1>
