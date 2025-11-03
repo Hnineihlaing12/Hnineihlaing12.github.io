@@ -19,7 +19,7 @@ Graduated from High School<br/>
 >Presented the paper titled Pedagogical Benchmarks for Smart Grid Scenarios on behalf of professor Wanus Srimaharaj (Payap University) at ECTI and DAMT NCON 2025 conference<br/>
 
 #Research Experience
->Title: Age-Related Changes in Brainwave Patterns: An EEG-Based Analysis
+>Title: Age-Related Changes in Brainwave Patterns: An EEG-Based Analysis<br/>
 >Conducted as part of my coursework in the second semester of first year undergraduate study at Payap University. 
 
 #Volunteer work:
