@@ -4,13 +4,13 @@ Payap University, Department of Information Technology<br/>
 Amphur Muang, Chiang Mai 50000, Thailand<br/>
 <br/>
 #Education
->Bachelor of Science in Information Technology (August 2024 - Present)
+>Bachelor of Science in Information Technology (August 2024 - Present)<br/>
 International College, Payap University - Chiang Mai, Thailand
-Completed one year 
->Technological University (Hmawbi) – Yangon, Myanmar
-Completed fourth year coursework in Information Technology prior to transferring to Payap University (December 2015 - March 2020)
->Zin Yaw Private High School - Kamayut Township, Yangon, Myanmar
-Graduated from High School
+Completed one year<br/> 
+>Technological University (Hmawbi) – Yangon, Myanmar<br/>
+Completed fourth year coursework in Information Technology prior to transferring to Payap University (December 2015 - March 2020)<br/>
+>Zin Yaw Private High School - Kamayut Township, Yangon, Myanmar<br/>
+Graduated from High School<br/>
 
 #Academic Project
 >Web development project using HTML and CSS in second-year coursework at Technological University (Hmawbi), Myanmar
