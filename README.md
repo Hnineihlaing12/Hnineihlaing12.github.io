@@ -3,9 +3,9 @@
   <tr>
     <td>
       <h1>Hnin Ei Hlaing</h1>
-      <p>Undergraduate Student<br>
-      Payap University, Department of IT<br>
-      Amphur Muang, Chiang Mai, Thailand</p>
+      <p>_Undergraduate Student_<br>
+      _Payap University, Department of Information Technology_<br>
+      _Amphur Muang, Chiang Mai, Thailand_</p>
     </td>
     <td>
       <img src="Picture1.png" alt="My Photo" width="20%">
