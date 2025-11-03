@@ -1,4 +1,4 @@
-<img src="Picture1.png" alt="Hnin Ei Hlaing" align="right" width="20%">
+
 <table border=0>
   <tr>
     <td>
@@ -8,7 +8,7 @@
       Amphur Muang, Chiang Mai, Thailand</p>
     </td>
     <td>
-      <img src="Picture1.png" alt="My Photo" width="120">
+      <img src="Picture1.png" alt="My Photo" width="20%">
     </td>
   </tr>
 </table>
