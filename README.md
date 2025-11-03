@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/1txwp6WUy7Emq9cxAB9-Rvdi-8c7hNRT-/view?usp=sharing" alt="Hnin Ei Hlaing" align="right" width="30%">
+<img src="Picture1.png" alt="Hnin Ei Hlaing" align="right" width="30%">
 
 # _Hnin Ei Hlaing_<br/>
 >_Undergraduated Student_<br/>
