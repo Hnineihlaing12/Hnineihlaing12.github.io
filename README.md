@@ -14,9 +14,9 @@ Completed fourth year coursework in Information Technology prior to transferring
 Graduated from High School<br/>
 
 #Academic Project
->Web development project using HTML and CSS in second-year coursework at Technological University (Hmawbi), Myanmar
->Image compression using Discrete Cosine Transform (DCT) in the fourth year of BE at Technological University (Hmawbi), Myanmar
->Presented the paper titled Pedagogical Benchmarks for Smart Grid Scenarios on behalf of professor Wanus Srimaharaj (Payap University) at ECTI and DAMT NCON 2025 conference 
+>Web development project using HTML and CSS in second-year coursework at Technological University (Hmawbi), Myanmar<br/>
+>Image compression using Discrete Cosine Transform (DCT) in the fourth year of BE at Technological University (Hmawbi), Myanmar<br/>
+>Presented the paper titled Pedagogical Benchmarks for Smart Grid Scenarios on behalf of professor Wanus Srimaharaj (Payap University) at ECTI and DAMT NCON 2025 conference<br/>
 
 #Research Experience
 >Title: Age-Related Changes in Brainwave Patterns: An EEG-Based Analysis
