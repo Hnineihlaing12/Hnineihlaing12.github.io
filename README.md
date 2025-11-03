@@ -5,12 +5,12 @@
 >_Amphur Muang, Chiang Mai 50000, Thailand_<br/>
 <br/>
 #Education<br/>
->Bachelor of Science in Information Technology (August 2024 - Present)<br/>
+*Bachelor of Science in Information Technology (August 2024 - Present)<br/>
 International College, Payap University - Chiang Mai, Thailand
 Completed one year<br/> 
->Technological University (Hmawbi) – Yangon, Myanmar<br/>
+*Technological University (Hmawbi) – Yangon, Myanmar<br/>
 Completed fourth year coursework in Information Technology prior to transferring to Payap University (December 2015 - March 2020)<br/>
->Zin Yaw Private High School - Kamayut Township, Yangon, Myanmar<br/>
+*Zin Yaw Private High School - Kamayut Township, Yangon, Myanmar<br/>
 Graduated from High School<br/>
 
 #Academic Project
