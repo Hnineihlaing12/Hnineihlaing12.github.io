@@ -1,18 +1,3 @@
-
-<table border="0">
-  <tr>
-    <td>
-      <h1>Hnin Ei Hlaing</h1>
-      <p>_Undergraduate Student_<br>
-      _Payap University, Department of Information Technology_<br>
-      _Amphur Muang, Chiang Mai, Thailand_</p>
-    </td>
-    <td>
-      <img src="Picture1.png" alt="My Photo" width="20%">
-    </td>
-  </tr>
-</table>
-# _Hnin Ei Hlaing_<br/>
 <img src="Picture1.png" alt="My Photo" width="20%" >
 # _Hnin Ei Hlaing_<br/>
 >_Undergraduated Student_<br/>
