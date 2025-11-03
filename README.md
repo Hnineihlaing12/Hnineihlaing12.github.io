@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/drive/shared-with-me?dmr=1&ec=wgc-drive-hero-goto" alt="Hnin Ei Hlaing" align="right" width="200">
+<img src="https://drive.google.com/drive/shared-with-me?dmr=1&ec=wgc-drive-hero-goto" alt="Hnin Ei Hlaing" align="right" width="30%">
 
 # _Hnin Ei Hlaing_<br/>
 >_Undergraduated Student_<br/>
