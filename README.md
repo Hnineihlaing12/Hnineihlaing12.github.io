@@ -6,7 +6,7 @@
 <br/>
 
 ## Education
->+ **Bachelor of Science in Information Technology (August 2024 - Present)**<br/>
+>+ **Bachelor of Science in Information Technology** (August 2024 - Present)<br/>
 International College, Payap University - Chiang Mai, Thailand
 Completed one year<br/> 
 >+ **Technological University (Hmawbi)** – Yangon, Myanmar<br/> 
