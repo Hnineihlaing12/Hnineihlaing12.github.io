@@ -2,7 +2,7 @@
 # _Hnin Ei Hlaing_<br/>
 Payap University, Department of Information Technology<br/>
 Amphur Muang, Chiang Mai 50000, Thailand<br/>
-
+<br/>
 #Education
 >Bachelor of Science in Information Technology (August 2024 - Present)
 International College, Payap University - Chiang Mai, Thailand
