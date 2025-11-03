@@ -13,7 +13,7 @@
   </tr>
 </table>
 # _Hnin Ei Hlaing_<br/>
-<img src="Picture1.png" alt="My Photo" width="20%" align= "right">
+<img src="Picture1.png" alt="My Photo" width="20%" ">
 >_Undergraduated Student_<br/>
 >_Payap University, Department of Information Technology_<br/>
 >_Amphur Muang, Chiang Mai 50000, Thailand_<br/>
