@@ -23,7 +23,7 @@ Graduated from High School<br/>
 >Conducted as part of my coursework in the second semester of first year undergraduate study at Payap University. 
 
 #Volunteer work:
->Participated in volunteering work for training on demonstrating basic computer skills for the students in monastic education in Bago Region, Myanmar (April 2021 – June 2021)
+>Participated in volunteering work for training on demonstrating basic computer skills for the students in monastic education in Bago Region, Myanmar (April 2021 – June 2022)
 
 #Contact Info:
 >[Gmail] hnineiheh117@gmail.com
