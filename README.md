@@ -6,12 +6,12 @@
 <br/>
 
 ## Education
->**+ Bachelor of Science in Information Technology (August 2024 - Present)**<br/>
+>+ **Bachelor of Science in Information Technology (August 2024 - Present)**<br/>
 International College, Payap University - Chiang Mai, Thailand
 Completed one year<br/> 
->**+ Technological University (Hmawbi) – Yangon, Myanmar**<br/> 
+>+ **Technological University (Hmawbi) – Yangon, Myanmar**<br/> 
 Completed fourth year coursework in Information Technology prior to transferring to Payap University (December 2015 - March 2020)<br/>
->+ Zin Yaw Private High School - Kamayut Township, Yangon, Myanmar<br/>
+>+ **Zin Yaw Private High School - Kamayut Township, Yangon, Myanmar**<br/>
 Graduated from High School<br/>
 
 ## Academic Project
@@ -20,7 +20,7 @@ Graduated from High School<br/>
 >+ Presented the paper titled Pedagogical Benchmarks for Smart Grid Scenarios on behalf of professor Wanus Srimaharaj (Payap University) at ECTI and DAMT NCON 2025 conference<br/>
 
 ## Research Experience
->Title: Age-Related Changes in Brainwave Patterns: An EEG-Based Analysis<br/>
+>Title: **Age-Related Changes in Brainwave Patterns: An EEG-Based Analysis**<br/>
 >Conducted as part of my coursework in the second semester of first year undergraduate study at Payap University.
 
 ## Interests
